@@ -41,9 +41,7 @@ Since this is my first OOP project, I'm looking forward to creating a more advan
 
 ## Lessons Learned
 
-## Contributing
-
-I'm open to feedback and contributions! Feel free to submit a pull request or open an issue if you have suggestions or want to help improve the game.
+- will update after I finish the project
 
 ## License
 
