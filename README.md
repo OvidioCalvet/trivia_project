@@ -50,6 +50,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## Acknowledgments
 
 Thanks for checking out my first OOP project! 
----
-
-Created by Ovidio Calvet
